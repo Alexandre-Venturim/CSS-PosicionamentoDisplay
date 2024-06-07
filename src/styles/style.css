@@ -86,3 +86,24 @@ video {
     font: inherit;
     vertical-align: baseline;
 }
+
+.example {
+    color: #fff;
+}
+
+.example-item {
+    display: inline-block;
+    height: 15vh;
+    width: 10vw;
+}
+
+.example-item_fist {
+    background-color: yellow;
+}
+.example-item_second {
+    background-color: red;
+}
+
+.example-item_third {
+    background-color: green;
+}
